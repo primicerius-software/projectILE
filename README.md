@@ -1,2 +1,6 @@
 # projectILE
-projectILE is a C++ program created to realistically calculate environmental effects on projectiles and their trajectory.
+![**projectILE is a C++ program created to realistically calculate environmental effects on projectiles and their trajectory.**](https://i.imgur.com/3UAInCe.png)
+
+
+
+
