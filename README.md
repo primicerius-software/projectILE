@@ -54,7 +54,8 @@ And of course updates the velocity, speed and position of the projectile, while 
 It calculates how air density effects on projectile, based on the information about projectile. Such as how drag coefficent is it, how large it's area and how fast it's going.
 
 ### KNOWN BUGS/PROBLEMS
-The variable called "diameter" is first made as "caliber" as it's a shell or bullet, they are close things, but not same. It'll fixed in next updates.
+The variable called "diameter" is first made as "caliber" as it's a shell or bullet, they are very close things, but not same. I'll look if they create any problem in calculations and will fix it.
+> For example, 9mm NATO (caliber) bullet's diameter is 9.01 milimeters.
 
 ### PLANNED FEATURES
 2D Interface,
